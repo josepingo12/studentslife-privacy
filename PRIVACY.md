@@ -16,9 +16,8 @@ Ai fini della presente Informativa sulla Privacy:
 
 *   **Account:** indica un account unico creato per te per accedere al nostro Servizio o a parti del nostro Servizio.
 *   **Affiliata:** indica un'entità che controlla, è controllata da o è sotto controllo comune con una parte, dove "controllo" significa possesso del 50% o più delle azioni, partecipazioni o altri titoli aventi diritto di voto per l'elezione di amministratori o altra autorità di gestione.
-*   **Applicazione:** si riferisce a StudentsLife, il programma software fornito dalla Società.
-*   **Azienda:** (indicata come "la Società", "Noi", "Nostro" o "Nostra" nella presente Informativa) si riferisce a [La tua Azienda/Organizzazione, ad esempio: StudentsLife S.r.l.].
-*   **Paese:** si riferisce a: Italia.
+*   **Applicazione:** si riferisce a StudentsLife, il programma software fornito dal programmatore Jose pingo
+*   **Paese:** si riferisce a: Spagna.
 *   **Dispositivo:** indica qualsiasi dispositivo che può accedere al Servizio, come un computer, un telefono cellulare o un tablet digitale.
 *   **Dati Personali:** sono tutte le informazioni che si riferiscono a una persona fisica identificata o identificabile.
 *   **Servizio:** si riferisce all'Applicazione StudentsLife e a tutte le sue funzionalità (registrazione utenti, social network, chat, sconti partner, ecc.).
@@ -131,7 +130,36 @@ La sicurezza dei tuoi Dati Personali è di fondamentale importanza per Noi. Adot
 
 Tuttavia, ricorda che nessun metodo di trasmissione su Internet o metodo di archiviazione elettronica è sicuro al 100%. Sebbene ci sforziamo di utilizzare mezzi commercialmente accettabili per proteggere i tuoi Dati Personali, non possiamo garantirne la sicurezza assoluta.
 
-## 3. Privacy dei Minori e Requisiti di Età
+## 3. Politica di Sicurezza, Moderazione dei Contenuti e Prevenzione Abusi
+
+StudentsLife si impegna a fornire un ambiente sicuro e positivo per tutti i suoi utenti. Data la natura sociale dell'Applicazione, adottiamo misure rigorose per prevenire abusi e garantire la conformità con le normative sulla sicurezza online.
+
+### 3.1 Tolleranza Zero per Abusi e Sfruttamento
+
+StudentsLife adotta una politica di tolleranza zero nei confronti di qualsiasi forma di abuso, molestia, adescamento o sfruttamento sessuale di minori (Child Sexual Abuse and Exploitation - CSAE) o di qualsiasi utente, indipendentemente dall'età. L'Applicazione è destinata esclusivamente a utenti maggiorenni (18+) e universitari, come indicato nella Sezione 4. Qualsiasi tentativo di coinvolgere minori o di sfruttarli sarà perseguito con la massima severità.
+
+### 3.2 Meccanismi di Segnalazione Utenti
+
+*   **Contatto Diretto:** Gli utenti possono  inviare segnalazioni dettagliate tramite l'indirizzo email fornito nella sezione "Contattaci".
+
+Tutte le segnalazioni vengono prese in carico dal nostro team di moderazione, che indaga tempestivamente e adotta le azioni appropriate.
+
+### 3.3 Gestione del Materiale Pedopornografico (CSAM)
+
+StudentsLife proibisce categoricamente la pubblicazione, la condivisione o la diffusione di materiale pedopornografico (Child Sexual Abuse Material - CSAM).
+
+*   **Blocco degli Account:** Gli account che pubblicano, condividono o sono associati a contenuti CSAM verranno immediatamente e permanentemente bloccati.
+*   **Segnalazione alle Autorità:** provvederemo a segnalare alle forze dell'ordine qualsiasi attività o contenuto CSAM alle autorità competenti, in conformità con le leggi applicabili.
+
+### 3.4 Conformità Legale
+
+StudentsLife si impegna a rispettare tutte le leggi e le normative nazionali e internazionali relative alla sicurezza dei minori e alla prevenzione dello sfruttamento online.
+
+### 3.5 Punto di Contatto per la Sicurezza
+
+Per qualsiasi questione o segnalazione urgente relativa alla sicurezza degli utenti, in particolare riguardo ad abusi o sfruttamento, è possibile contattarci all'indirizzo email indicato nella Sezione 6 "Contattaci".
+
+## 4. Privacy dei Minori e Requisiti di Età
 
 Il nostro Servizio è destinato esclusivamente a studenti universitari e, pertanto, **non si rivolge a persone di età inferiore ai 18 anni**. Non raccogliamo consapevolmente informazioni di identificazione personale da persone di età inferiore ai 18 anni.
 
@@ -139,13 +167,13 @@ Se sei un genitore o tutore e sei consapevole che tuo figlio, di età inferiore 
 
 Accedendo e utilizzando il Servizio, dichiari di avere almeno 18 anni di età e di essere uno studente universitario.
 
-## 4. Collegamenti ad Altri Siti Web
+## 5. Collegamenti ad Altri Siti Web
 
 Il nostro Servizio può contenere collegamenti ad altri siti web non gestiti da Noi (es. siti dei partner per gli sconti). Se clicchi su un link di terze parti, verrai indirizzato al sito di tale terza parte. Ti consigliamo vivamente di rivedere l'Informativa sulla Privacy di ogni sito che visiti.
 
 Non abbiamo alcun controllo e non ci assumiamo alcuna responsabilità per il contenuto, le politiche sulla privacy o le pratiche di siti o servizi di terze parti.
 
-## 5. Modifiche alla Presente Informativa sulla Privacy
+## 6. Modifiche alla Presente Informativa sulla Privacy
 
 Potremmo aggiornare la nostra Informativa sulla Privacy di tanto in tanto per riflettere cambiamenti nelle nostre pratiche o per conformarci a nuove normative. Ti informeremo di eventuali modifiche pubblicando la nuova Informativa sulla Privacy su questa pagina.
 
@@ -153,9 +181,9 @@ Ti informeremo via email e/o con un avviso ben visibile sul nostro Servizio, pri
 
 Ti consigliamo di rivedere periodicamente la presente Informativa sulla Privacy per eventuali modifiche. Le modifiche alla presente Informativa sulla Privacy sono efficaci quando vengono pubblicate su questa pagina.
 
-## 6. Contattaci
+## 7. Contattaci
 
 Se hai domande sulla presente Informativa sulla Privacy, desideri esercitare i tuoi diritti (es. richiedere la cancellazione dei dati) o hai bisogno di chiarimenti, puoi contattarci:
 
-*   Via email: stud3nts.1ife.info@gmail.com]
-*   Visitando questa pagina sul nostro sito web: [www.studentslife.es]
+*   Via email: stud3nts1ife.info@gmail.com
+*   Visitando questa pagina sul nostro sito web: www.studentslife.es
